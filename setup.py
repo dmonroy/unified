@@ -10,7 +10,7 @@ setup_params = dict(
     author_email='contact@darwinmonroy.com',
     description='Unified docker API access',
     install_requires=[
-        'chilero>=0.3.11'
+        'chilero>=0.3.12'
     ],
     setup_requires=[
         'setuptools_scm',
