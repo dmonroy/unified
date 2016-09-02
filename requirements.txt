@@ -1,1 +1,1 @@
-chilero
+chilero>=0.3.11
